@@ -21,7 +21,6 @@
 
 ### Languages
 <img align="left" alt="C++" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Arduino" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Javascript" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -48,6 +47,7 @@
 <img align="left" alt="UiPath" width="34px" src="https://seeklogo.com/images/U/uipath-logo-E168798B64-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Node Red" width="34px" src="https://nodered.org/about/resources/media/node-red-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Tinkercad" width="34px" src="https://cdn.zspace.com/applications/icons/logo-tinkercad-256.png" style="padding-right:10px;" />
+<img align="left" alt="Arduino" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 
 
 
