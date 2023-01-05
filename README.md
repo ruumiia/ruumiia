@@ -6,7 +6,7 @@
 - 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress).
 - :book: I'm currently trying to learn / planning to learn more about Python, Java, Javascript, and SQL.
 - :calendar: I'm planning to learn/relearn/polish more of my knowledge about Web Development, Data Science, and OOP.
-- ⚡ My interests: Science topics, listening to music, 日本語 study 
+- ⚡ My interests: science topics, listening to music, 日本語 study 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
