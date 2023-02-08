@@ -2,10 +2,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## About Me
-- 🔭 I’m currently working on my CS [Thesis Project](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web).
+- 🔭 I’m currently working on relearning Web development
 - 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress).
 - :book: I'm currently trying to learn / planning to learn more about Python, Java, Javascript, and SQL.
-- :calendar: I'm planning to learn/relearn/polish more of my knowledge about Web Development, Data Science, and OOP.
+- :calendar: I'm planning to learn/relearn/polish more of my knowledge about Data Science and OOP.
 - ⚡ My interests: science topics, listening to music, 日本語 study 
 - 📰 Working out to improve my profile, mostly focused on paperworks.
 <!--
