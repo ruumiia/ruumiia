@@ -7,8 +7,8 @@
 - 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress).
 - :book: I'm currently trying to learn / planning to learn more about Python, Java, Javascript, and SQL.
 - :calendar: I'm planning to learn/relearn/polish more of my knowledge about Data Science and OOP.
-- ⚡ My interests: science topics, listening to music, 日本語 study 
-- 📰 Working out to improve my profile, mostly focused on paperworks.
+- ⚡ My interests: science topics, artificial intelligence / neural networks, listening to music, 日本語 study 
+- 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
