@@ -47,7 +47,6 @@
 <img align="left" alt="Botpress" width="34px" src="https://www.vectorlogo.zone/logos/botpressio/botpressio-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="UiPath" width="34px" src="https://seeklogo.com/images/U/uipath-logo-E168798B64-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="Tinkercad" width="34px" src="https://cdn.zspace.com/applications/icons/logo-tinkercad-256.png" style="padding-right:10px;" />
-<br /> 
 <img align="left" alt="Arduino" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node Red" width="34px" src="https://nodered.org/about/resources/media/node-red-icon.svg" style="padding-right:10px;" />
 
