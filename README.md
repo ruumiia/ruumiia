@@ -9,7 +9,7 @@
 - :calendar: I'm planning to learn/relearn/polish more of my knowledge about Data Science and OOP.
 - ⚡ My interests: science topics, artificial intelligence / neural networks, listening to music, 日本語 study 
 - 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
-- 📰 [Stuff I'm currently working on.](https://www.notion.so/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529&pvs=4)
+- 📰 [Stuff I'm currently working on.](https://cut-rambutan-571.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
