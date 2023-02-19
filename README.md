@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## About Me
-- 🔭 I’m currently working on relearning Web Development languages/tools. 
+- 🔭 I’m currently working on relearning Web Development languages/tools and making a portfolio website. 
 - 🔭 Also currently accomplishing certifications in [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp).
 - 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress).
 - :book: I'm currently trying to learn / planning to learn more about Python, Java, Javascript, and SQL.
