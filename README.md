@@ -76,6 +76,8 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vergaraac&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
+![Snake animation](https://github.com/vergaraac/vergaraac/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <div align="center">
