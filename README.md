@@ -12,7 +12,9 @@
 - 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
 - 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 
-<h2 class="bold"> Technical Skills / Experiences </h2>
+<div class="spacing"></div>
+
+<h2 class="bold"> Technologies / Skills Previously Learned, Used, and Experienced </h2>
 
 <h3 class="bold"> Programming </h3>
   
@@ -75,9 +77,9 @@
 <img align="left" alt="Node Red" width="34px" src="https://nodered.org/about/resources/media/node-red-icon.svg" style="padding-right:10px;" />
 </div>
 
-<br /><br />
+<div class="spacing"></div>
 
-<div class="center">
+<div align="center">
 
 <h2 class="bold"> My Github Stats </h2>
   
@@ -86,6 +88,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vergaraac&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<div class="spacing"></div>
 
 <div class="center">
   
