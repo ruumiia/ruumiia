@@ -12,7 +12,7 @@
 - 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
 - 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 
-<h2 class="bold"> Technologies / Skills Previously Learned, Used, and Experienced </h2>
+<h2 class="bold"> Technologies / Skills Previously Learned and Used </h2>
 
 <h3 class="bold"> Programming </h3>
   
