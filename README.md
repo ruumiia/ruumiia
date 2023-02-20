@@ -12,8 +12,6 @@
 - 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
 - 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 
-<div class="spacing"></div>
-
 <h2 class="bold"> Technologies / Skills Previously Learned, Used, and Experienced </h2>
 
 <h3 class="bold"> Programming </h3>
@@ -77,7 +75,7 @@
 <img align="left" alt="Node Red" width="34px" src="https://nodered.org/about/resources/media/node-red-icon.svg" style="padding-right:10px;" />
 </div>
 
-<div class="spacing"></div>
+<br /><br />
 
 <div align="center">
 
@@ -89,9 +87,7 @@
 
 </div>
 
-<div class="spacing"></div>
-
-<div class="center">
+<div align="center">
   
 <h2 class="bold"> Contact Me </h2>
 <a href="https://www.linkedin.com/in/vergaraac/">
