@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="styles.css">
 
-<h2 class="bold"> About Me </h2>
+<img src="header1.gif" width="100%">
+
+<h1 class="bold" align="center"> About Me </h1>
 
 - 🔭 I’m currently working on relearning Web Development languages/tools and making a portfolio website. 
 - 🔭 Also currently accomplishing certifications in [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp).
@@ -12,7 +14,11 @@
 - 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
 - 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 
-<h2 class="bold"> Technologies / Skills Previously Learned and Used </h2>
+<br /><br />
+
+<img src="banner.gif" width="100%">
+
+<h1 class="bold" align="center"> Technologies / Skills Previously Learned and Used </h1>
 
 <h3 class="bold"> Programming </h3>
   
@@ -75,21 +81,25 @@
 <img align="left" alt="Node Red" width="34px" src="https://nodered.org/about/resources/media/node-red-icon.svg" style="padding-right:10px;" />
 </div>
 
-<br /><br />
+<br /><br /><br />
 
 <div align="center">
 
-<h2 class="bold"> My Github Stats </h2>
-    
+<h1 class="bold" align="center"> My Github Stats </h1>
+
+<br />
+  
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=vergaraac&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vergaraac&count_private=true&show_icons=true&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
+<br />
+
 <div align="center">
   
-<h2 class="bold"> Contact Me </h2>
+<h1 class="bold" align="center"> Contact Me </h1>
 <a href="https://www.linkedin.com/in/vergaraac/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
