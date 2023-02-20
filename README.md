@@ -4,17 +4,16 @@
 <br />
 <hr>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&width=600&height=80&lines=About+Me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&width=600&height=80&lines=About+Me" alt="About Me" /></a>
 </div>
 <hr>
 
-- 🔭 I’m currently working on relearning Web Development languages/tools and making a portfolio website. 
-- 🔭 Also currently accomplishing certifications in [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp).
+- 🔭 I’m currently relearning Web Development through [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp) and making a portfolio website. 
 - 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress).
-- :book: I'm currently trying to learn / planning to learn more about Python, Java, Javascript, and SQL.
-- :calendar: I'm planning to learn/relearn/polish more of my knowledge about Data Science and OOP.
+- :book: I'm planning to learn more about Anaconda Navigator Tools, Python, R, Javascript, and SQL.
+- :calendar: I'm planning to learn/relearn/polish more of my knowledge for Data Science, particularly revisiting related mathematical concepts and other backgrounds.
 - ⚡ My interests: science topics, artificial intelligence / neural networks, listening to music, 日本語 study 
-- 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
+- 📰 Working out to improve my profile, currently focused on improving my technical skillset and getting an internship work.
 - 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 
 <br />
