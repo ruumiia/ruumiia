@@ -1,11 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="styles.css">
 
-<p align="center">
-  <img src="header1.gif" width="60%" alt="Header graphic"/>
-</p>
-
-<h1 class="bold" align="center"> About Me </h1>
+<br />
+<hr>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&width=600&height=80&lines=About+Me" alt="Typing SVG" /></a>
+</div>
+<hr>
 
 - 🔭 I’m currently working on relearning Web Development languages/tools and making a portfolio website. 
 - 🔭 Also currently accomplishing certifications in [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp).
@@ -17,8 +18,9 @@
 - 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 
 <br />
-
-<h1 class="bold" align="center"> Technologies / Skills Previously Learned and Used </h1>
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=1500&height=80&lines=Technologies+%2F+Skills+Previously+Learned+and+Used" alt="Technical Skills / Experience" /></a>
+<hr>
 
 <h3 class="bold"> Programming </h3>
   
@@ -86,9 +88,9 @@
 <br /><br />
 
 <div align="center">
-
-<h1 class="bold" align="center"> My Github Stats </h1>
-
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=150&pause=1000&center=true&vCenter=true&width=1500&height=150&lines=My+Github+Stats" alt="My Github Stats" /></a>
+<hr>
 <br />
   
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=vergaraac&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -100,8 +102,10 @@
 <br />
 
 <div align="center">
-  
-<h1 class="bold" align="center"> Contact Me </h1>
+<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Contact+Me" alt="Contact Me" /></a>
+<hr>
+ 
 <a href="https://www.linkedin.com/in/vergaraac/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
