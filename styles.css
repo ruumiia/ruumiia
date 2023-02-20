@@ -1,7 +1,3 @@
 .bold {
-  text-style: bold;
-}
-
-.rotate {
-  transform: rotate(180deg);
+  font-style: bold;
 }
