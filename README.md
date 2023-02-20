@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="styles.css">
 
-<img src="header1.gif" width="100%">
+<p align="center">
+  <img src="header1.gif" width="60%" alt="Header graphic"/>
+</p>
 
 <h1 class="bold" align="center"> About Me </h1>
 
@@ -14,9 +16,7 @@
 - 📰 Working out to improve my profile, currently focused on certifications and getting an internship work.
 - 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
 
-<br /><br />
-
-<img src="banner.gif" width="100%">
+<br />
 
 <h1 class="bold" align="center"> Technologies / Skills Previously Learned and Used </h1>
 
@@ -82,6 +82,8 @@
 </div>
 
 <br /><br /><br />
+<img src="banner.png" width="100%">
+<br /><br />
 
 <div align="center">
 
