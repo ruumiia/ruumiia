@@ -107,11 +107,20 @@
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Contact+Me" alt="Contact Me" /></a>
 <hr>
- 
+</div>
+
+<div align="center" styles="display:flex;">
 <a href="https://www.linkedin.com/in/vergaraac/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="aaron_charles_vergara@dlsl.edu.ph?subject=Hello%20Aaron,%20From%20Github">
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  
+<a href="aaroncharles0609@proton.me?subject=Hello%20Aaron,%20From%20Github">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
 </div>
 
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="100%">
