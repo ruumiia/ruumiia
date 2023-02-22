@@ -8,7 +8,8 @@
 </div>
 <hr>
 
-- 🔭 I’m currently relearning Web Development through [Free Code Camp](https://github.com/freeCodeCamp/freeCodeCamp) and making a portfolio website. 
+- 🔭 I’m currently accomplishing [Responsive Web design](https://github.com/freeCodeCamp/freeCodeCamp) course by Free Code Camp and making a portfolio website. 
+- 🔭 Also doing DeepLearning.AI [Tensorflow Developer Professional Course](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera.
 - 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress).
 - :book: I'm planning to learn more about Anaconda Navigator Tools, Python, R, Javascript, and SQL.
 - :calendar: I'm planning to learn/relearn/polish more of my knowledge for Data Science, particularly revisiting related mathematical concepts and other backgrounds.
