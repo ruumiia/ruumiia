@@ -114,11 +114,11 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="aaron_charles_vergara@dlsl.edu.ph?subject=Hello%20Aaron,%20From%20Github">
+<a href="mailto:aaron_charles_vergara@dlsl.edu.ph?subject=Hello%20Aaron,%20From%20Github">
 <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   
-<a href="aaroncharles0609@proton.me?subject=Hello%20Aaron,%20From%20Github">
+<a href="mailto:aaroncharles0609@proton.me?subject=Hello%20Aaron,%20From%20Github">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 </div>
