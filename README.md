@@ -9,8 +9,9 @@
 <hr>
 
 - 🔭 I’m currently accomplishing [Responsive Web design](https://github.com/freeCodeCamp/freeCodeCamp) course by Free Code Camp and making a portfolio website. 
-- 🔭 Also doing DeepLearning.AI [Tensorflow Developer Professional Course](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera.
-- 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress).
+- 🔭 Also doing IBM [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) on Coursera.
+- 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress). Check out my [thesis project](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web) made with this framework.😃
+- 🌱 I just finished DeepLearning.AI [Tensorflow Developer Professional Course](https://www.coursera.org/professional-certificates/tensorflow-in-practice) on Coursera. :relaxed:  
 - :book: I'm planning to learn more about Anaconda Navigator Tools, Python, R, Javascript, and SQL.
 - :calendar: I'm planning to learn/relearn/polish more of my knowledge for Data Science, particularly revisiting related mathematical concepts and other backgrounds.
 - ⚡ My interests: science topics, artificial intelligence / neural networks, listening to music, 日本語 study 
