@@ -30,9 +30,9 @@
 <ul>
   <li> My interests are talking about science, philosophy, listening to music, and maybe learning more 日本語. 
   <li> Working out to improve my profile, currently focused on improving my technical skillset and getting an internship work.
-  <li> <a href="https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529">Stuff I'm currently working on.</a>
+  <li> Stuff I'm working on: <a href="https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black"></a>
 </ul>
-
+  
 <br />
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=1500&height=80&lines=Technologies+%2F+Skills+Previously+Learned+and+Used" alt="Technical Skills / Experience" /></a>
