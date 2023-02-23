@@ -10,16 +10,28 @@
 
 <img src="man_analysis.png" align="right" width="40%">
 
-- 🔭 I’m currently accomplishing [Responsive Web design](https://github.com/freeCodeCamp/freeCodeCamp) course by Free Code Camp and making a portfolio website. 
-
-- 🔭 Also doing IBM [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) on Coursera.
-- 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress). Check out my [thesis project](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web) made with this framework.😃
-- 🌱 I just finished DeepLearning.AI [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice) on Coursera. :relaxed:  
-- :book: I'm planning to learn more about Anaconda Navigator Tools, Python, R, Javascript, and SQL.
-- :calendar: I'm planning to learn/relearn/polish more of my knowledge for Data Science, particularly revisiting related mathematical concepts and other backgrounds.
-- ⚡ My interests: science topics, artificial intelligence / neural networks, listening to music, 日本語 study 
-- 📰 Working out to improve my profile, currently focused on improving my technical skillset and getting an internship work.
-- 📰 [Stuff I'm currently working on.](https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529)
+<h3> Currently Accomplishing 🔭 </h3>
+<ul>
+  <li> Accomplishing <a href="https://github.com/freeCodeCamp/freeCodeCamp">Responsive Web design</a> course by Free Code Camp and making a portfolio website. 
+  <li> Studying IBM's <a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a> on Coursera.
+</ul>
+<h3> Recently Accomplished 🌱 </h3>
+<ul>
+  <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. 😃
+  <li> I just finished DeepLearning.AI's <a href="https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice">Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</a>. :relaxed:  
+</ul>
+<h3> Future Plans :calendar: </h3>
+<ul>
+  <li> I'm planning to become more proficient in front-end/back-end development for future internship work. :book:
+  <li> I would want to learn more about data science/analysis and tools used such as Python, R, SQL, Tableau, and Power BI.  
+  <li> I would like to revisit learning mathematics again, such that I could apply it in future data science aspirations or any other technical expertise.
+</ul>
+<h3> Others ⚡ </h3>
+<ul>
+  <li> My interests are talking about science, philosophy, listening to music, and maybe learning more 日本語. 
+  <li> Working out to improve my profile, currently focused on improving my technical skillset and getting an internship work.
+  <li> <a href="https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529">Stuff I'm currently working on.</a>
+</ul>
 
 <br />
 <hr>
