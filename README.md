@@ -8,6 +8,8 @@
 </div>
 <hr>
 
+<img src="man_analysis.png" align="right" width="30%">
+
 - 🔭 I’m currently accomplishing [Responsive Web design](https://github.com/freeCodeCamp/freeCodeCamp) course by Free Code Camp and making a portfolio website. 
 - 🔭 Also doing IBM [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) on Coursera.
 - 🌱 I just recently learned how to use [Botpress](https://github.com/botpress/botpress). Check out my [thesis project](https://github.com/pangilinan-patrick/MyDCampus-Channel-Web) made with this framework.😃
