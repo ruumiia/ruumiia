@@ -12,7 +12,7 @@
 
 <h3> Currently Accomplishing 🔭 </h3>
 <ul>
-  <li> Accomplishing <a href="https://github.com/freeCodeCamp/freeCodeCamp">Responsive Web design</a> course by Free Code Camp and making a portfolio website. 
+  <li> Accomplishing <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web design</a> course by <a href="https://github.com/freeCodeCamp/freeCodeCamp">FreeCodeCamp</a> and making a portfolio website. 
   <li> Studying IBM's <a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a> on Coursera.
 </ul>
 <h3> Recently Accomplished 🌱 </h3>
