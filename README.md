@@ -13,7 +13,9 @@
 <h3> Currently Accomplishing 🔭 </h3>
 <ul>
   <li> Accomplishing <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web design</a> course by <a href="https://github.com/freeCodeCamp/freeCodeCamp">FreeCodeCamp</a> and making a portfolio website. 
-  <li> Studying IBM's <a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a> on Coursera.
+  <li> Studying IBM's <a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a> course on Coursera.
+  <li> Studying Google's <a href="https://www.coursera.org/learn/foundations-data">Foundations: Data, Data, Everywhere</a> course on Coursera.
+  <li> Studying Datacamp's <a href="https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals">Tableau Fundamentals</a>. 
 </ul>
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
