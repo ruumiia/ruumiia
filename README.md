@@ -13,14 +13,11 @@
 <h3> Currently Accomplishing 🔭 </h3>
 <ul>
   <li> Accomplishing <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web design</a> course by <a href="https://github.com/freeCodeCamp/freeCodeCamp">FreeCodeCamp</a> and making a portfolio website. 
-  <li> Studying IBM's <a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a> course on Coursera.
-  <li> Studying Google's <a href="https://www.coursera.org/learn/foundations-data">Foundations: Data, Data, Everywhere</a> course on Coursera.
-  <li> Studying Datacamp's <a href="https://app.datacamp.com/learn/skill-tracks/tableau-fundamentals">Tableau Fundamentals</a>. 
+  <li> Studying Google's Data Analyst Professional course on Coursera.
 </ul>
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
   <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. 😃
-  <li> I just finished DeepLearning.AI's <a href="https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice">Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</a>. :relaxed:  
 </ul>
 <h3> Future Plans :calendar: </h3>
 <ul>
