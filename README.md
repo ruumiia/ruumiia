@@ -21,7 +21,7 @@
 </ul>
 <h3> Future Plans :calendar: </h3>
 <ul>
-  <li> I'm planning to become more proficient in front-end/back-end development for future internship work. :book:
+  <li> I'm planning to become more proficient in front-end/back-end development. :book:
   <li> I would want to learn more about data science/analysis and tools used such as Python, R, SQL, Tableau, and Power BI.  
   <li> I would like to revisit learning mathematics again, such that I could apply it in future data science aspirations or any other technical expertise.
 </ul>
