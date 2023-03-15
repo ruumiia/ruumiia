@@ -94,13 +94,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-<div class="other-tools">
-<img align="left" alt="Botpress" width="34px" src="https://www.vectorlogo.zone/logos/botpressio/botpressio-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="UiPath" width="34px" src="https://seeklogo.com/images/U/uipath-logo-E168798B64-seeklogo.com.png" style="padding-right:10px;" />
-<img align="left" alt="Tinkercad" width="34px" src="https://cdn.zspace.com/applications/icons/logo-tinkercad-256.png" style="padding-right:10px;" />
-<img align="left" alt="Node Red" width="34px" src="https://nodered.org/about/resources/media/node-red-icon.svg" style="padding-right:10px;" />
-</div>
-
 <br /><br /><br />
 <img src="banner.png" width="100%">
 <br /><br />
