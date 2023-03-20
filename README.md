@@ -13,7 +13,8 @@
 <h3> Currently Accomplishing 🔭 </h3>
 <ul>
   <li> Making a portfolio website. 
-  <li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera - Currently 3/8 Courses accomplished so far!
+  <li> Working on getting an internship at the moment.
+  <li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera - Currently 4/8 Courses accomplished so far!
 </ul>
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
