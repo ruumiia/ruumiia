@@ -12,24 +12,25 @@
 
 <h3> Currently Accomplishing 🔭 </h3>
 <ul>
-  <li> Making a portfolio website. 
-  <li> Working on getting an internship at the moment.
-  <li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera - Currently 4/8 Courses accomplished so far!
+  <li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.
 </ul>
+<br />
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
   <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. 😃
 </ul>
+<br />
+<!--
 <h3> Future Plans :calendar: </h3>
 <ul>
   <li> I'm planning to become more proficient in front-end/back-end development. :book:
   <li> I would want to learn more about data science/analysis and tools used such as Python, R, SQL, Tableau, and Power BI.  
   <li> I would like to revisit learning mathematics again, such that I could apply it in future data science aspirations or any other technical expertise.
 </ul>
+-->
 <h3> Others ⚡ </h3>
 <ul>
-  <li> My interests are talking about science, philosophy, listening to music, and maybe learning more 日本語. 
-  <li> Working out to improve my profile, currently focused on improving my technical skillset and getting an internship work.
+<!--  <li> My interests are talking about science, philosophy, listening to music, and maybe learning more 日本語. -->
   <li> Stuff I'm working on: <a href="https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black"></a>
 </ul>
   
