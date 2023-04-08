@@ -18,13 +18,13 @@
 </ul>
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
-  <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. 😃
+  <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. 😃</li>
 </ul>
 <h3> Pending Plans :calendar: </h3>
 <ul>
-  <li> To become proficient in web development for a future portfolio project. :book:
+  <li> To become proficient in web development for a future portfolio project.</li>
   <li> Explore more data-related tools and technologies </li>
-  <li> Continue my 日本語 study
+  <li> Continue my 日本語 study</li>
 </ul>
 
 <h3> Others ⚡ </h3>
