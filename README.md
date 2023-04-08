@@ -10,9 +10,11 @@
 
 <img src="man_analysis.png" align="right" width="40%">
 
-<h3> Currently Accomplishing 🔭 </h3>
+<h3> Currently Working At 🔭 </h3>
 <ul>
-  <li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.
+  <li> Pursuing an ongoing Data Modeler Internship at Pixel8 Web Solutions & Consultancy Inc. </li> 
+  <li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>
+  <li> Adding more projects and improving my data portfolio </li>
 </ul>
 <br />
 <h3> Recently Accomplished 🌱 </h3>
