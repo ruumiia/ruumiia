@@ -14,25 +14,21 @@
 <ul>
   <li> Pursuing an ongoing Data Modeler Internship at Pixel8 Web Solutions & Consultancy Inc. </li> 
   <li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>
-  <li> Adding more projects and improving my data portfolio </li>
+  <li> Adding more projects and improving my data portfolio. </li>
 </ul>
-<br />
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
   <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. 😃
 </ul>
-<br />
-<!--
-<h3> Future Plans :calendar: </h3>
+<h3> Pending Plans :calendar: </h3>
 <ul>
-  <li> I'm planning to become more proficient in front-end/back-end development. :book:
-  <li> I would want to learn more about data science/analysis and tools used such as Python, R, SQL, Tableau, and Power BI.  
-  <li> I would like to revisit learning mathematics again, such that I could apply it in future data science aspirations or any other technical expertise.
+  <li> To become proficient in web development for a future portfolio project. :book:
+  <li> Explore more data-related tools and technologies </li>
+  <li> Continue my 日本語 study
 </ul>
--->
+
 <h3> Others ⚡ </h3>
 <ul>
-<!--  <li> My interests are talking about science, philosophy, listening to music, and maybe learning more 日本語. -->
   <li> Stuff I'm working on: <a href="https://ruumiia.notion.site/733193ab149743cdb4d9df59ffc50737?v=ab273210d72843efb1389705fed1e529" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=social&logo=notion&logoColor=black"></a>
 </ul>
   
@@ -92,10 +88,8 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
 <br /><br /><br />
