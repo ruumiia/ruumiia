@@ -10,9 +10,9 @@
 
 <img src="man_analysis.png" align="right" width="40%">
 
-<h3> Currently Working At 🔭 </h3>
+<h3> Currently Working 🔭 </h3>
 <ul>
-  <li> Pursuing an ongoing Data Modeler Internship at <a href="https://software.pixel8.ph">Pixel8 Web Solutions & Consultancy Inc.</a> </li> 
+  <li> Data Modeler Intern at <a href="https://software.pixel8.ph">Pixel8 Web Solutions & Consultancy Inc.</a> </li> 
   <!--<li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>-->
   <li> Adding more projects and improving my <a href="https://github.com/vergaraac/Data-Portfolio">data portfolio</a>. </li>
 </ul>
