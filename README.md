@@ -22,7 +22,7 @@
 </ul>
 <h3> Pending Plans :calendar: </h3>
 <ul>
-  <li> To become proficient in web development for a future portfolio project.</li>
+  <!--<li> To become proficient in web development for a future portfolio project.</li>-->
   <li> Explore more data-related tools and technologies </li>
   <li> Continue my 日本語 study</li>
 </ul>
