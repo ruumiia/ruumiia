@@ -24,8 +24,9 @@
 <h3> Pending Plans :calendar: </h3>
 <ul>
   <!--<li> To become proficient in web development for a future portfolio project.</li>-->
-  <li> Explore more data-related tools and technologies </li>
-  <li> Continue my 日本語 study</li>
+  <li> I would like to explore more data-related tools and technologies, and improve my mathematical/statistical analysis expertise and skills. </li>
+  <li> I'm planning to explore more about cloud technologies, starting with AWS.
+  <li> Continue my Japanese study. 日本語を勉強します。でも、まだ苦手です。</li>
 </ul>
 
 <h3> Others ⚡ </h3>
