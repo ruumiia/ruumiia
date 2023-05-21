@@ -14,12 +14,13 @@
 <ul>
   <li> Data Modeler Intern at <a href="https://software.pixel8.ph">Pixel8 Web Solutions & Consultancy Inc.</a> </li> 
   <!--<li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>-->
-  <li> Busy working on a case study task for Accenture SLC 2023. </li>
+  <li> Data Scientist Scholar at <a href="https://sparta.dap.edu.ph">Project SPARTA PH</a> </li>
   <li> Adding more projects and improving my <a href="https://github.com/vergaraac/Data-Portfolio">data portfolio</a>. </li>
 </ul>
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
-  <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. 😃</li>
+  <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. </li>
+  <li> Just recently participated in Accenture Student Leader Conference 2023 and won Best Team Building. </li>
 </ul>
 <h3> Pending Plans :calendar: </h3>
 <ul>
