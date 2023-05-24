@@ -20,7 +20,7 @@
 <h3> Recently Accomplished 🌱 </h3>
 <ul>
   <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. </li>
-  <li> Just recently participated in Accenture Student Leader Conference 2023 and won Best Team Building. </li>
+  <li> Just recently participated in Accenture Student Leader Conference 2023 and won the Team Building Winner Award. </li>
 </ul>
 <h3> Pending Plans :calendar: </h3>
 <ul>
