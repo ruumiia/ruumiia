@@ -15,7 +15,8 @@
   <li> Data Modeler Intern at <a href="https://software.pixel8.ph">Pixel8 Web Solutions & Consultancy Inc.</a> </li> 
   <!--<li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>-->
   <li> Data Scientist Scholar at <a href="https://sparta.dap.edu.ph">Project SPARTA PH</a> </li>
-  <li> Accomplishing Microsoft Azure Certifications, currently studying <a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900/">AI-900 Microsoft Azure AI Fundamentals</a>. </li>
+  <li> Accomplishing Microsoft Azure Certifications, currently studying for<a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900/">AI-900 Microsoft Azure AI Fundamentals</a>. </li>
+  <li> Accomplishing <a href="deeplearning.ai">DeepLearning.AI</a> certifications for AI & ML Specializations. </li>
   <li> Adding more projects and improving my <a href="https://github.com/vergaraac/Data-Portfolio">data portfolio</a>. </li>
 </ul>
 <h3> Recently Accomplished 🌱 </h3>
@@ -27,7 +28,7 @@
 <ul>
   <!--<li> To become proficient in web development for a future portfolio project.</li>-->
   <li> I would like to explore more data-related tools and technologies, and improve my mathematical/statistical analysis expertise and skills. </li>
-  <li> I'm planning to explore more about cloud technologies, starting with AWS. </li>
+  <li> I'm planning to explore more about cloud technologies, such as AWS, GCP, and Microsoft Azure. </li>
   <li> I would like to explore more project management and development approaches in the future. </li>
   <li> I would like to continue my Japanese study when I get more free time to do so. <br /> 日本語勉強します。でも、まだ苦手です。</li>
 </ul>
