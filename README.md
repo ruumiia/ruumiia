@@ -12,7 +12,6 @@
 
 <h3> Currently Working 🔭 </h3>
 <ul>
-  <li> Data Modeler Intern at <a href="https://software.pixel8.ph">Pixel8 Web Solutions & Consultancy Inc.</a> </li> 
   <!--<li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>-->
   <li> Data Scientist Scholar at <a href="https://sparta.dap.edu.ph">Project SPARTA PH</a> </li>
   <li> Accomplishing Microsoft Azure Certifications, currently studying for <a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900/">AI-900 Microsoft Azure AI Fundamentals</a>. </li>
@@ -23,6 +22,7 @@
 <ul>
   <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. </li>
   <li> Just recently participated in Accenture Student Leader Conference 2023 and won the Team Building Winner Award. </li>
+  <li> Just recently accomplished my Data Modeler internship at <a href="https://software.pixel8.ph">Pixel8 Web Solutions & Consultancy Inc.</a> Check out my <a href="https://www.linkedin.com/posts/vergaraac_certificate-of-completion-activity-7073253223607783424-2QTj?utm_source=share&utm_medium=member_desktop">certificate</a>!</li>
 </ul>
 <h3> Pending Plans :calendar: </h3>
 <ul>
