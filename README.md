@@ -23,7 +23,7 @@
   <li> I just recently learned how to use <a href="https://github.com/botpress/botpress">Botpress</a>. Check out my <a href="https://github.com/pangilinan-patrick/MyDCampus-Channel-Web">thesis project</a> made with this framework. </li>
   <li> Just recently participated in Accenture Student Leader Conference 2023 and won the Team Building Winner Award. </li>
   <li> Just recently accomplished my Data Modeler internship at <a href="https://software.pixel8.ph">Pixel8 Web Solutions & Consultancy Inc.</a> Check out my <a href="https://www.linkedin.com/posts/vergaraac_certificate-of-completion-activity-7073253223607783424-2QTj?utm_source=share&utm_medium=member_desktop">certificate</a>!</li>
-  <li> <a href="https://learn.microsoft.com/api/credentials/share/en-us/vergaraac/708EB90D0E76D812?sharingId=56D4AA216C906330">AZ-900 Microsoft Azure Fundamentals</a> and <a href="https://learn.microsoft.com/en-us/certifications/exams/dp-900/">DP-900 Microsoft Azure Data Fundamentals</a> certified </li>
+  <li> <a href="https://learn.microsoft.com/api/credentials/share/en-us/vergaraac/708EB90D0E76D812?sharingId=56D4AA216C906330">AZ-900 Microsoft Azure Fundamentals</a> and <a href="https://learn.microsoft.com/api/credentials/share/en-us/vergaraac/3CB86F1C92B0086C?sharingId=56D4AA216C906330">DP-900 Microsoft Azure Data Fundamentals</a> Certified </li>
 </ul>
 <h3> Pending Plans :calendar: </h3>
 <ul>
